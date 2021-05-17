@@ -1,7 +1,7 @@
 # simracing
 Här hittar ni config filer eller annat som kan behövas för att optimera eller ändra på inställningar!
 
-VERSIONER
+VERSIONER UNDER RELEASE
 -------------------------------
 VR Config: Likadana grafiska inställningar fast att VR startar automatiskt.
 Flat config: Likadana grafiska inställningar fast att VR startar inte automatiskt.
