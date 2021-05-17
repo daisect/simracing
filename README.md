@@ -15,7 +15,7 @@ HOW TO DOWNLOAD AND USE rendererDX11.ini
 5. Starta spelet!
 
 
-HOW TO USE CODE (Höger sida)
+HOW TO USE CODE (Höger sida, Releases)
 -------------------------------
 1. Gå in i: C:\Users\DITTSYSTEM\Dokument\iRacing
 2. Öppna rendererDX11.ini
