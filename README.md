@@ -6,7 +6,7 @@ VERSIONER UNDER RELEASE
 VR Config: Likadana grafiska inställningar fast att VR startar automatiskt.
 Flat config: Likadana grafiska inställningar fast att VR startar inte automatiskt.
 
-HOW TO DOWNLOAD AND USE (Very easy way)
+HOW TO DOWNLOAD AND USE rendererDX11.ini
 -------------------------------
 1. Ladda hem rendererDX11.ini
 2. Gå in i: C:\Users\DITTSYSTEM\Dokument\iRacing
@@ -15,7 +15,7 @@ HOW TO DOWNLOAD AND USE (Very easy way)
 5. Starta spelet!
 
 
-HOW TO USE CODE (Easy way)
+HOW TO USE CODE (Höger sida)
 -------------------------------
 1. Gå in i: C:\Users\DITTSYSTEM\Dokument\iRacing
 2. Öppna rendererDX11.ini
