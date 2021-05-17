@@ -8,10 +8,11 @@ Flat config: Likadana grafiska inställningar fast att VR startar inte automatis
 
 HOW TO DOWNLOAD AND USE
 -------------------------------
-1. Ladda hem den version du vill använda
+1. Ladda hem rendererDX11.ini
 2. Gå in i: C:\Users\DITTSYSTEM\Dokument\iRacing
-3. Kopiera din nedladdade rendererDX11 och ersätt filen som redan finns här.
-4. Starta spelet.
+3. Kopiera din nedladdade rendererDX11.ini och ersätt filen som redan finns här.
+4. Om du INTE kör VR: Gå in i rendererDX11.ini och under [Oculus Rift] så ändrar du: AutoSelect=1 till AutoSelect=0
+5. Starta spelet!
 
 
 HOW TO USE CODE
